@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaydeepbaldaniya
+- 👋 Hi, I’m Jaydeep Baldaniya
 - 👀 I’m interested in php, laravel and javascript.
 - 🌱 I’m currently learning docker and react js.
 - 💞️ I’m looking to collaborate on laravel repos.
