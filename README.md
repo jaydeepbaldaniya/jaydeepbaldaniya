@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **laravel repos**
 
-- 🤝 I’m looking for help with **core php & laravel**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jaydeepbldn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaydeepbldn" height="30" width="40" /></a>
